@@ -118,4 +118,5 @@ f.savefig("closeness_centrality_mashhad.png", dpi=300)
 - **Other Centrality Measures**: Incorporate other centrality measures like **betweenness** or **degree centrality** to enhance the analysis.
 
 ---
+![closeness_mhs](https://github.com/user-attachments/assets/6db683f7-440b-45ed-b6dd-ca145892a238)
 
